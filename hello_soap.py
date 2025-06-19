@@ -1,4 +1,3 @@
-# Tu código actual simplificado (¡correcto!)
 from spyne import Application, rpc, ServiceBase, Unicode
 from spyne.protocol.soap import Soap11
 from spyne.server.wsgi import WsgiApplication
